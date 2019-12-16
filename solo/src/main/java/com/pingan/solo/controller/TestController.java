@@ -17,4 +17,8 @@ public class TestController {
     public void show4(){
         System.out.println("a4");
     }
+
+    public void show5(){
+        System.out.println("a5");
+    }
 }
