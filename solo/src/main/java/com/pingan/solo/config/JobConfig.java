@@ -9,4 +9,8 @@ public class JobConfig {
     public void job2(){
         System.out.println("job2");
     }
+
+    public void job3(){
+        System.out.println("job3");
+    }
 }
